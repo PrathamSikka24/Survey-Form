@@ -1,5 +1,5 @@
 # Wanderlust Survey Website
-
+Link to the website: https://travelsurveyprathamsikka.netlify.app/
 Welcome to the Wanderlust Survey Website! This interactive platform allows users to explore their travel preferences through a fun and engaging survey. Discover your travel personality and get inspired to plan your next adventure!(It's my first project and is under development, so commits will be added. Feedback is welcome!).
 
 ## Features
