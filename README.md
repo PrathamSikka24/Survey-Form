@@ -33,7 +33,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
--
 - Special thanks to FreeCodeCamp.org for their guidance and support during the development of this project.
 
 Feel free to reach out with any questions or feedback. Happy exploring and happy travels!
