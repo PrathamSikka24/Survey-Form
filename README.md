@@ -1,5 +1,6 @@
 # Wanderlust Survey Website
-Link to the website: [![Netlify Status](https://api.netlify.com/api/v1/badges/6df1276a-602c-47e8-8a0e-9fb8ce0f768b/deploy-status)](https://app.netlify.com/sites/travelsurveyprathamsikka/deploys)
+Link to the Netlify: [![Netlify Status](https://api.netlify.com/api/v1/badges/6df1276a-602c-47e8-8a0e-9fb8ce0f768b/deploy-status)](https://app.netlify.com/sites/travelsurveyprathamsikka/deploys)
+Link to the website: travelsurveyprathamsikka.netlify.app
 Welcome to the Wanderlust Survey Website! This interactive platform allows users to explore their travel preferences through a fun and engaging survey. Discover your travel personality and get inspired to plan your next adventure!(It's my first project and is under development, so commits will be added. Feedback is welcome!).
 
 ## Features
